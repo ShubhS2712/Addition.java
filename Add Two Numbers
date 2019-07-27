@@ -1,0 +1,16 @@
+import java.util.*;
+Class Add
+{
+
+Public static void main(String[]arts)
+{
+Scanner sc=new Scanner(System.in);
+System.out println("Enter First Number");
+int a=SC.nextInt();
+System.out.println("Enter second Number");
+int b=SC.nextInt();
+int add=a+b;
+System.out.println("Addition is:"+add);
+
+}
+}
