@@ -1,15 +1,15 @@
-import java.util.*;
+import java.util.Scanner;
 Class Add
 {
 
-Public static void main(String[]arts)
+public static void main(String[]arts)
 {
-Scanner sc=new Scanner(System.in);
-System.out println("Enter First Number");
-int a=SC.nextInt();
+Scanner sc = new Scanner(System.in);
+System.out.println("Enter First Number");
+int a = sc.nextInt();
 System.out.println("Enter second Number");
-int b=SC.nextInt();
-int add=a+b;
+int b = sc.nextInt();
+int add = a+b;
 System.out.println("Addition is:"+add);
 
 }
